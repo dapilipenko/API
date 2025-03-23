@@ -1,0 +1,7 @@
+POST http://127.0.0.1:5000/item 
+Content-Type: application/json 
+
+{
+    "name": "apple1", 
+    "price": 10
+}
